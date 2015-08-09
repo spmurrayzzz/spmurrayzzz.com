@@ -1,0 +1,50 @@
+@media screen and (max-width: 969px) {
+
+  main section.about, main section.archive {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  main {
+    width: 100%;
+    opacity: 1;
+  }
+
+  header .header-box {
+    width: 100%;
+  }
+
+  header p {
+    transform: none;
+    margin: 0;
+  }
+
+  header h1 {
+    transform: none;
+    font-size: 24px;
+    line-height: -1px;
+  }
+
+  header .portrait { transform: none; }
+
+  main div.post img {
+    width: 80%;
+  }
+
+  main table.archive-main {
+    width: 100%;
+  }
+
+  main table.archive-main td {
+    text-align: left;
+    vertical-align: top;
+    padding-bottom: 20px;
+    padding-left: 10px;
+  }
+
+  main table.archive-main td.date {
+    width: 100px;
+  }
+
+}

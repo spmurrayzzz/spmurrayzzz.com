@@ -1,0 +1,4 @@
+main { opacity: 1; }
+header p { transform: none; }
+header h1 { transform: none; font-size: 45px; }
+header .portrait { transform: none; }

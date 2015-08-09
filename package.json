@@ -1,0 +1,21 @@
+{
+  "name": "new-spmurrayzzz-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "5.0.14",
+    "handlebars": "3.0.3",
+    "hapi": "8.8.1",
+    "highlight.js": "8.7.0",
+    "marked": "0.3.5"
+  },
+  "devDependencies": {
+    "to-markdown": "^1.2.1"
+  }
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Stephen Murray — JavaScript Engineer</title>
+    <link href="/css/normalize.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
+    <link href="/css/mobile.css" rel="stylesheet">
+    <link href="/css/markdown.css" rel="stylesheet">
+    {{#if post}}
+    <link href="/css/post.css" rel="stylesheet">
+    {{/if}}
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,800,700" rel="stylesheet" type="text/css">
+    <script src="//use.typekit.net/ncl5xqv.js"></script>
+    <script>try{Typekit.load({ async: false });}catch(e){}</script>
+    <noscript>
+      <link rel="stylesheet" href="/css/nojs.css">
+    </noscript>
+  </head>
+<body>
+
+  <div class="container">
+
+    <header class="tk-futura-pt">
+      <div class="header-box">
+        <img class="portrait" src="/img/portrait-wide.png" alt="oh, hai">
+        <h1>Stephen Murray</h1>
+        <p>engineer, dog fanatic, erstwhile vagrant</p>
+        <div class="clearfix"></div>
+      </div>
+    </header>
+
+    <main class="tk-freight-sans-pro">
+      {{{ content }}}
+    </main>
+
+  </div>
+
+<script src="/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+main {
+  opacity: 1;
+}
+
+header p {
+  transform: none;
+}
+header h1 {
+  transform: none;
+}
+header .portrait { transform: none; }
