@@ -224,6 +224,8 @@ main div.post {
 
 main div.post img {
   max-width: 600px;
+  display: block;
+  margin: 0 auto;
 }
 
 main table.archive-main {
