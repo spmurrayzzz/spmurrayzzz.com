@@ -194,6 +194,11 @@ main section.projects ul {
   padding: 0;
 }
 
+main div.spacer {
+  border-bottom: 1px solid #f1f1f1;
+  width: 100%;
+}
+
 main section.contact {
   width: 125px;
   margin: 0 auto;
