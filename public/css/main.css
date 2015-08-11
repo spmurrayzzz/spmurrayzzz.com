@@ -189,6 +189,11 @@ main section table.archive-list td.see-more {
   font-weight: 600;
 }
 
+main section.projects ul {
+  list-style: none;
+  padding: 0;
+}
+
 main section.contact {
   width: 125px;
   margin: 0 auto;
