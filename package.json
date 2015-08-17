@@ -16,6 +16,7 @@
     "marked": "0.3.5"
   },
   "devDependencies": {
+    "flightplan": "^0.6.4",
     "to-markdown": "^1.2.1"
   }
 }
