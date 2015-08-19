@@ -28,6 +28,10 @@
 
   header .portrait { transform: none; }
 
+  main div.post {
+    font-size: 16px;
+  }
+
   main div.post img {
     width: 80%;
   }
