@@ -1,6 +1,5 @@
 var plan = require('flightplan'),
-  cfg = require('./.flightplanrc'),
-  baseHost = '.cloud.projectdecibel.com';
+  cfg = require('./.flightplanrc');
 
 plan.target( 'production', {
   host: 'spmurrayzzz.com',
